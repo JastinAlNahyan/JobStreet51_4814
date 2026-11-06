@@ -12,3 +12,4 @@ C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\refint\JobStreet51_4814.dll
 C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.pdb
 C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.genruntimeconfig.cache
 C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\ref\JobStreet51_4814.dll
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.sourcelink.json

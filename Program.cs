@@ -7,6 +7,14 @@ int JumlahHalaman = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Masukkan Harga Per Halaman");
 int HargaPerHalaman = int.Parse(Console.ReadLine()!);
 
-int subtotal = JumlahHalaman * HargaPerHalaman;
+int BiayaAdministrasi = 2000;
 
-Console.WriteLine($"Sub Total = {subtotal}");
+int subtotal = JumlahHalaman * HargaPerHalaman;
+int totalbiaya = subtotal + BiayaAdministrasi;
+
+Console.WriteLine($"Nama Pelanggan = {NamaPelanggan}");
+Console.WriteLine($"Jumlah Halaman = {JumlahHalaman}");
+Console.WriteLine($"Harga Perhalaman = {HargaPerHalaman}");
+Console.WriteLine($"SubTotal = {subtotal}");
+Console.WriteLine($"Biaya Admin = {BiayaAdministrasi}");
+Console.WriteLine($"TotalBiaya = {totalbiaya}");
