@@ -1,0 +1,6 @@
+# Hasil .NET
+bin/
+obj/
+
+# Pengaturan VSC
+.vscode/
