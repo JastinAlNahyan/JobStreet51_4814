@@ -1,0 +1,14 @@
+C:\Users\DPK\JobStreet51_4814\bin\Debug\net10.0\JobStreet51_4814.exe
+C:\Users\DPK\JobStreet51_4814\bin\Debug\net10.0\JobStreet51_4814.deps.json
+C:\Users\DPK\JobStreet51_4814\bin\Debug\net10.0\JobStreet51_4814.runtimeconfig.json
+C:\Users\DPK\JobStreet51_4814\bin\Debug\net10.0\JobStreet51_4814.dll
+C:\Users\DPK\JobStreet51_4814\bin\Debug\net10.0\JobStreet51_4814.pdb
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.AssemblyInfoInputs.cache
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.AssemblyInfo.cs
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.csproj.CoreCompileInputs.cache
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.dll
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\refint\JobStreet51_4814.dll
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.pdb
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\JobStreet51_4814.genruntimeconfig.cache
+C:\Users\DPK\JobStreet51_4814\obj\Debug\net10.0\ref\JobStreet51_4814.dll
